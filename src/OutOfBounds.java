@@ -10,6 +10,7 @@ public class OutOfBounds {
 
     public static void main(String[] args) {
         try {
+            System.out.println("This is a change");
             // initialization for file input and output
             File fileIn = new File("values.txt");
             File fileOut = new File("counts.txt");
