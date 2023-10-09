@@ -1,0 +1,5 @@
+-3 4875  282
+8 9    // This comment is ignored, even if 123 is here
+17 42     2304  -18  // Another comment
+6  bad format 34 // the text should all occur over here
+32
